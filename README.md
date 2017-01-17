@@ -1,2 +1,0 @@
-#primerEjemploDistancia
-# sketch_distance
